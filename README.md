@@ -4,7 +4,7 @@
  My name is Deniss and I'm a Junior Front-end developer with basic web developing knowledge. Open to work with a new team for experience in Front-end and improve my skills in Web. I'm looking for junior front-end position or practice to improve my skills for biggest works.
  
 <u>Education:</u>
-PIKC "Rigas Tehniska koledza" (2017-2021). Riga, Latvia.
+Vocational secondary education - PIKC "Rigas Tehniska koledza" (2017-2021). Riga, Latvia.
 Macibu centrs "Dialogs AB" (2025). Riga, Latvia.
 
 <u>Skills:</u>
