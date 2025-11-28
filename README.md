@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! Welcome to my profile. 👋
 
-<!--
-**denzyy292/denzyy292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<u>About:</u>
+ My name is Deniss and I'm a Junior Front-end developer with basic web developing knowledge. Open to work with a new team for experience in Front-end and improve my skills in Web. I'm looking for junior front-end position or practice to imrpove my skills for biggest works.
+<u>Education:</u>
+PIKC "Rigas Tehniska koledza" (2017-2021). Riga, Latvia.
+Macibu centrs "Dialogs AB" (2025). Riga, Latvia.
+<u>Skills:</u>
+HTML, CSS, JavaScript, jQuery, Github.
+<u>Languages:</u>
+English, Latvian and Russian.
+<u>Contacts:</u>
+email: denissmaklers@gmail.com
+LinkedIn: linkedin.com/in/denzyy
